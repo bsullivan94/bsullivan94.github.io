@@ -1,11 +1,11 @@
 # Site settings
-author: brody sullivan
-title: 
+author: Brody M. Sullivan
+title: Why I Decided to Study Software Engineering
 header-img: img/home-bg.png
 email: brodysullivan0@gmail.com
-copyright_name: brody sullivan
+copyright_name: Brody M. Sullivan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  *Hint: Because the Future is NOW, BABY!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bsullivan94
